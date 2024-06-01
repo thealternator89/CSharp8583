@@ -126,6 +126,7 @@ namespace CSharp8583.Extensions
                     case LengthType.LLVAR:
                     case LengthType.LLLVAR:
                     case LengthType.LLLLVAR:
+                    case LengthType.LLLLLVAR:
                     case LengthType.LLLLLLVAR:
                         if (isoFieldProperties.LenDataType == DataType.ASCII)
                         {
@@ -207,6 +208,7 @@ namespace CSharp8583.Extensions
                     case LengthType.LLVAR:
                     case LengthType.LLLVAR:
                     case LengthType.LLLLVAR:
+                    case LengthType.LLLLLVAR:
                     case LengthType.LLLLLLVAR:
                         if (isoFieldProperties.LenDataType == DataType.ASCII)
                         {

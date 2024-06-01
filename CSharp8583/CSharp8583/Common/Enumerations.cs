@@ -127,6 +127,10 @@
         /// </summary>
         LLLLVAR = 4,
         /// <summary>
+        /// LLLLLVAR binary field of up to 99999 bits in length
+        /// </summary>
+        LLLLLVAR = 5
+        /// <summary>
         /// LLLLLLVAR binary field of up to 999999 bits in length
         /// </summary>
         LLLLLLVAR = 6
